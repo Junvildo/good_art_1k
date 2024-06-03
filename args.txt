@@ -1,0 +1,10 @@
+{
+  "path": "images/first_1k/img",
+  "cuda": 0,
+  "name": "trial_art_1k_4",
+  "iter": 50000,
+  "start_iter": 0,
+  "batch_size": 12,
+  "im_size": 512,
+  "ckpt": "None"
+}
